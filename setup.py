@@ -2,7 +2,7 @@
 
 from setuptools import find_packages, setup
 
-from domonic import __version__ as version
+version = "0.9.10"
 
 
 def read(filename: str) -> str:
